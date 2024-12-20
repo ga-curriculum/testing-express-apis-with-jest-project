@@ -29,7 +29,7 @@ Estimated completion time is around **15 hours**.
 
 ### Content
 
-[Project Requirements Google Sheets]()
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1Uo3dR98yTVRCbCGmyusiYHmw3e4uniat9w06jK4OSKg/edit?usp=sharing)
 
 ### Prerequisites
 
