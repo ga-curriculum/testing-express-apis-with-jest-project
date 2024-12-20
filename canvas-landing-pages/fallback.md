@@ -10,7 +10,7 @@ In this project, you'll build a simple RESTful API using **Express.js** and test
 
 This project will help you gain hands-on experience with building APIs, writing tests, and practicing best practices for backend development.
 
-> **Time Commitment:** Estimated completion time is around **15 hours**.
+Estimated completion time is around **15 hours**.
 
 ## Content
 
