@@ -1,56 +1,44 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Testing Express APIs with Jest Project</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this project, you'll build a simple RESTful API using **Express.js** and test its functionality with **Jest** and **Supertest**. Testing will be conducted programmatically with Jest and Supertest, and manually with Postman to verify functionality.
+
+This project will help you gain hands-on experience with building APIs, writing tests, and practicing best practices for backend development.
+
+> **Time Commitment:** Estimated completion time is around **15 hours**.
 
 ## Content
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+1. [Project Journey](./project-journey/README.md)
 
-## References
+2. [Project Requirements and Guidance](./project-requirements-and-guidance/README.md)
 
-📖 [Reference Materials](./references/README.md)
+   - [Project Requirements PDF](./project-requirements-and-guidance/assets/project-requirements.pdf)
+
+3. [Step-by-Step Project Build](./step-by-step-project-build/assets/project-requirements.pdf)
+
+4. [Project GitHub Repo URL Deliverable](./project-github-repo-url-deliverable/README.md)
+
+5. [Project Presentation Requirements](./project-presentation-requirements/README.md)
 
 ## Internal
 
+### Content
+
+[Project Requirements Google Sheets]()
+
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- Students should be familiar with RESTful APIs, Express.js, and Jest for Testing.
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/restful-microservice-with-express-project/canvas-landing-pages/mea.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/restful-microservice-with-express-project/canvas-landing-pages/fallback.html)
 
 ### Resources
 

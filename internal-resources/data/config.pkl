@@ -12,25 +12,34 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "Testing Express APIs with Jest Project "
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "testing-express-apis-with-jest"
   type = "Lesson"
 }
 
 courses {
+    new {
+    name = "mea"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.projectJourney
+      mls.projectRequirementsAndGuidance
+      mls.stepByStepProjectBuild
+      mls.projectGithubRepoUrlDeliverable
+      mls.projectPresentationRequirements
+    }
+  }
   new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.projectJourney
+      mls.projectRequirementsAndGuidance
+      mls.stepByStepProjectBuild
+      mls.projectGithubRepoUrlDeliverable
+      mls.projectPresentationRequirements
     }
   }
 }

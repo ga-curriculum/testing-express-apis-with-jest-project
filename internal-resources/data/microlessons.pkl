@@ -2,30 +2,37 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+projectJourney = new Template.Microlesson {
+  friendlyName = "Project Journey"
+  dirName = "project-journey"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+projectRequirementsAndGuidance = new Template.Microlesson {
+  friendlyName = "Project Requirements and Guidance"
+  dirName = "project-requirements-and-guidance"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+stepByStepProjectBuild = new Template.Microlesson {
+  friendlyName = "Step-by-Step Project Build"
+  dirName = "step-by-step-project-build"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+projectGithubRepoUrlDeliverable = new Template.Microlesson {
+  friendlyName = "Project GitHub Repo URL Deliverable"
+  dirName = "project-github-repo-url-deliverable"
+  type = "Content"
+  videoUrl = ""
+}
+
+projectPresentationRequirements = new Template.Microlesson {
+  friendlyName = "Project Presentation Requirements"
+  dirName = "project-presentation-requirements"
   type = "Content"
   videoUrl = ""
 }
