@@ -1,27 +1,27 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Testing Express APIs with Jest Project </span>
+  <span class="headline">Testing Express APIs with Jest Project</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+In this project, you'll build a simple RESTful API using **Express.js** and test its functionality with **Jest** and **Supertest**. Testing will be conducted programmatically with Jest and Supertest, and manually with Postman to verify functionality.
+
+This project will help you gain hands-on experience with building APIs, writing tests, and practicing best practices for backend development.
+
+> **Time Commitment:** Estimated completion time is around **15 hours**.
 
 ## Content
 
-| Lesson                                               | Est. Delivery Time | Skills                              |
-| ---------------------------------------------------- | :----------------: | ----------------------------------- |
-| [Setup](../setup/README.md)                          |         --         | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    |         --         | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) |         --         | tktk Skills covered.                |
-| **Total content**                                    |         --         |                                     |
+1. [Project Journey](../project-journey/README.md)
 
-## Level Up content
+2. [Project Requirements and Guidance](../project-requirements-and-guidance/README.md)
 
-| Lesson                                               | Est. Delivery Time | Skills               |
-| ---------------------------------------------------- | :----------------: | -------------------- |
-| [tktk Microlesson Name](../microlesson-02/README.md) |         --         | tktk Skills covered. |
-| **Total Level Up content**                           |         --         |                      |
+   - [Project Requirements PDF](../project-requirements-and-guidance/assets/project-requirements.pdf)
 
-## References
+3. [Step-by-Step Project Build](../step-by-step-project-build/assets/project-requirements.pdf)
 
-📖 [Reference Materials](../references/README.md)
+4. [Project GitHub Repo URL Deliverable](../project-github-repo-url-deliverable/README.md)
+
+5. [Project Presentation Requirements](../project-presentation-requirements/README.md)

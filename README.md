@@ -37,8 +37,8 @@ This project will help you gain hands-on experience with building APIs, writing 
 
 ### Course landing pages
 
-- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/restful-microservice-with-express-project/canvas-landing-pages/mea.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/restful-microservice-with-express-project/canvas-landing-pages/fallback.html)
+- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/testing-express-apis-with-jest/canvas-landing-pages/mea.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/testing-express-apis-with-jest/canvas-landing-pages/fallback.html)
 
 ### Resources
 
