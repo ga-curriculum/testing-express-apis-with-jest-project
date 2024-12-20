@@ -14,7 +14,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "Testing Express APIs with Jest Project "
   // This must match the repo name as it appears on GitHub exactly
-  name = "testing-express-apis-with-jest"
+  name = "testing-express-apis-with-jest-project"
   type = "Lesson"
 }
 

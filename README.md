@@ -37,8 +37,8 @@ Estimated completion time is around **15 hours**.
 
 ### Course landing pages
 
-- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/testing-express-apis-with-jest/canvas-landing-pages/mea.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/testing-express-apis-with-jest/canvas-landing-pages/fallback.html)
+- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/testing-express-apis-with-jest-project/canvas-landing-pages/mea.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/testing-express-apis-with-jest-project/canvas-landing-pages/fallback.html)
 
 ### Resources
 
