@@ -19,7 +19,7 @@ Estimated completion time is around **15 hours**.
 
    - [Project Requirements PDF](./project-requirements-and-guidance/assets/project-requirements.pdf)
 
-3. [Step-by-Step Project Build](./step-by-step-project-build/assets/project-requirements.pdf)
+3. [Step-by-Step Project Build](./step-by-step-project-build/README.md)
 
 4. [Project GitHub Repo URL Deliverable](./project-github-repo-url-deliverable/README.md)
 
